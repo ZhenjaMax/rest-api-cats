@@ -1,0 +1,16 @@
+{
+	"id": 23,
+	"age": 6
+}
+
+{
+	"id": 23,
+	"name": "Тиша",
+	"breed": "Британская голубая",
+	"color": "Серый",
+	"age": 6,
+	"costPerHour": 100500,
+	"isBooked": false,
+	"imageURL": null,
+	"imageName": null
+}

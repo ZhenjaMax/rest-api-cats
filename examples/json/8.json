@@ -1,0 +1,13 @@
+// NO INPUT (URL ONLY)
+
+{
+    "id": 24,
+    "name": "Шлёпа",
+    "breed": "Каракал (большой русский кот)",
+    "color": "Русый",
+    "age": 3,
+    "costPerHour": 125,
+    "isBooked": false,
+    "imageURL": "https://awscatbucket.s3.us-east-2.amazonaws.com/24_floppa.png",
+    "imageName": "24_floppa.png"
+}

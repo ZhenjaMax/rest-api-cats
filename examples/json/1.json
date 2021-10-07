@@ -1,0 +1,19 @@
+{
+	"name": "Тиша",
+	"breed": "Британская голубая",
+	"color": "Серый",
+	"age": 666,
+	"costPerHour": 100500
+}
+
+{
+	"name": "Тиша",
+	"breed": "Британская голубая",
+	"color": "Серый",
+	"age": 666,
+	"costPerHour": 100500,
+	"imageURL": null,
+	"imageName": null,
+	"id": 23,
+	"isBooked": false
+}

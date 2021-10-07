@@ -1,0 +1,26 @@
+// NO INPUT
+
+[
+    {
+        "id": 4,
+        "name": "Чубайс",
+        "breed": "Кимрийская",
+        "color": "Бело-рыжий",
+        "age": 66,
+        "costPerHour": 1000,
+        "isBooked": true,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 12,
+        "name": "Дымок",
+        "breed": "Мейн-кун",
+        "color": "Серый дымчатый",
+        "age": 4,
+        "costPerHour": 12000,
+        "isBooked": true,
+        "imageURL": null,
+        "imageName": null
+    }
+]

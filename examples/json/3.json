@@ -1,0 +1,114 @@
+// NO INPUT
+
+[
+    {
+        "id": 2,
+        "name": "Анатолий",
+        "breed": "Неизвестно",
+        "color": "Рыжий",
+        "age": 66,
+        "costPerHour": 5,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 4,
+        "name": "Чубайс",
+        "breed": "Кимрийская",
+        "color": "Бело-рыжий",
+        "age": 66,
+        "costPerHour": 1000,
+        "isBooked": true,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 10,
+        "name": "Матроскин",
+        "breed": "Неизвестно",
+        "color": "Бело-серый (полосатый)",
+        "age": 3,
+        "costPerHour": 0,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 11,
+        "name": "Муха",
+        "breed": "Манчкин",
+        "color": "Чёрный",
+        "age": 1,
+        "costPerHour": 600,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 12,
+        "name": "Дымок",
+        "breed": "Мейн-кун",
+        "color": "Серый дымчатый",
+        "age": 4,
+        "costPerHour": 12000,
+        "isBooked": true,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 13,
+        "name": "Шлёпа",
+        "breed": "Большой русский кот",
+        "color": "Русый",
+        "age": 500,
+        "costPerHour": 999999,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 17,
+        "name": "Шлёпа",
+        "breed": "Большой русский кот",
+        "color": "Русый",
+        "age": 500,
+        "costPerHour": 123456789,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 19,
+        "name": "Шлёпа2",
+        "breed": "Каракал",
+        "color": "red",
+        "age": 0,
+        "costPerHour": 2345678,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 22,
+        "name": "Чубайс",
+        "breed": "Кимрская",
+        "color": "Рыжий",
+        "age": 8,
+        "costPerHour": 250,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    },
+    {
+        "id": 24,
+        "name": "Шлёпа",
+        "breed": "Каракал (большой русский кот)",
+        "color": "Русый",
+        "age": 3,
+        "costPerHour": 125,
+        "isBooked": false,
+        "imageURL": null,
+        "imageName": null
+    }
+]

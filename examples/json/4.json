@@ -1,0 +1,13 @@
+// NO INPUT
+
+{
+	"id": 24,
+	"name": "Шлёпа",
+	"breed": "Каракал (большой русский кот)",
+	"color": "Русый",
+	"age": 3,
+	"costPerHour": 125,
+	"isBooked": false,
+	"imageURL": null,
+	"imageName": null
+}
