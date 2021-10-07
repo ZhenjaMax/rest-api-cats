@@ -1,4 +1,4 @@
-# Тестовое задание на позицию Junior Backend Developer
+# Тестовое задание
 
 ### Необходимые пакеты npm
     @nestjs/common
